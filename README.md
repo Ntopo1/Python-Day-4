@@ -1,4 +1,4 @@
-<h1> Python: 100 Days of Coding: Day 4</h1>
+<h1> Python: 100 Days of Coding Challenge: Day 4</h1>
 <h2>Description</h2>
 <p>Learn about Randomization and Lists. At the end of the day, I will make a Rock, Paper Scissors game using these new tools.</p>
 <br />
